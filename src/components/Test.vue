@@ -1,6 +1,0 @@
-<template>
-    <h1> 
-   <Test/>
-        Test
-    </h1>
-</template>
