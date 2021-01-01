@@ -4,7 +4,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Portfolio</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h3 class="section-subheading text-muted">Project Sample</h3>
           </div>
         </div>
         <div class="row">
@@ -33,9 +33,9 @@ export default {
     data: () => ({
         portfolioJSON: [
             {
-                img: '/something/random/img.jpg',
-                caption: 'Explore',
-                title: 'Graphic Design'
+                img: 'src/assets/img/devio1.png',
+                caption: 'Perptual Academy',
+                title: 'Web Design'
             },
             {
                 img: '/something/random/img.jpg',

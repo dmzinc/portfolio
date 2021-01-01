@@ -295,8 +295,8 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Project Name</h2>
                   <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="img/portfolio/01-full.jpg" alt="">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                  <img class="img-fluid d-block mx-auto" src="C:/Users/THIS PC/Desktop/potfolio/src/assets/img/devio1.png" alt="">
+                <p>Use this area to describe your project.</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
                     <li>Client: Threads</li>
@@ -329,8 +329,8 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Project Name</h2>
                   <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="img/portfolio/02-full.jpg" alt="">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                  <img class="img-fluid d-block mx-auto" src="potfolio/src/assets/img/devio1.png" alt="ggg">
+                  <p>Use this area to describe your project.</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
                     <li>Client: Explore</li>
@@ -363,7 +363,7 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Project Name</h2>
                   <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="img/portfolio/03-full.jpg" alt="">
+                  <img class="img-fluid d-block mx-auto" src="potfolio/src/assets/img/devio1.png" alt="">
                   <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
@@ -397,7 +397,7 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Project Name</h2>
                   <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="img/portfolio/04-full.jpg" alt="">
+                  <img class="img-fluid d-block mx-auto" src="potfolio/src/assets/img/devio1.png" alt="">
                   <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
